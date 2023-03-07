@@ -7,7 +7,7 @@ const mongoose=require('mongoose');
 
 const dotenv=require('dotenv').config();
 
-const mongoURI=process.env.MONGO_URL || "mongodb+srv://user1:9665583311@virajdb.gbjegsn.mongodb.net/enotebook";
+const mongoURI=process.env.MONGO_URL;
 
 
 
