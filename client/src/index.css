@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+i{
+  cursor: pointer;
+}
+
+
+.form{
+
+  padding-right: 5vw;
+}
+
+.actual-container{
+
+  width: 40%;
+
+  border: 2px solid black ;
+  margin: auto;
+ 
+  padding: 10vb;
+  border-radius: 40px;
+  background-color: antiquewhite;
+}
+
+.forgot-pass{
+  color: brown;
+}
+
+
+#fp{
+  margin-top: 10px;
+  color: brown;
+}
+
+
+
+.forms{
+  justify-content: center;
+}
+
+.text{
+  margin-top: 3vh;
+}
+
+#google{
+
+  width: 10%;
+  height: auto;
+}
+
+#LoginBtn{
+
+  width: 100%;
+  border-radius: 13px;
+  margin-top: 5vb;
+  margin-bottom: 5dvb;
+  background-color:rgb(199, 170, 150);
+  border: transparent;
+  color: antiquewhite;
+}
+
+#LoginBtn:hover{
+
+  color: darkgreen;
+  scale: 1.02 ;
+}
+
+
+
+.final{
+  margin-top: 0vh;
+}
+.sign-in{
+
+ 
+  padding-bottom: 30vh;
+}
+
+#navbar{
+
+  background-color: darkturquoise;
+}
+
+#about{
+
+font-size: medium;
+
+}
+.ul{
+list-style: square;
+margin-left: 8vw;
+}
+li{
+  margin-top: 2vb;
+}
+
+.main-about{
+background-color:rgb(232, 232, 165);
+  height: 100%;
+  padding: 5vb;
+  border-radius: 10vb 20vb;
+  
+}
+
+#headings{
+
+  margin-bottom: 4vb;
+}
+
+#card{
+
+  background-color:bisque;
+  border:1px solid black;
+  border-radius: 15px 0;
+}
